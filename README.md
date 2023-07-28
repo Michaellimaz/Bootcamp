@@ -20,7 +20,7 @@ Simulação de sistema bancário basico com as funcionalidades:
  - [DIO](dio.me)
 
 
-
+<img loading="lazy" src="https://hermes.dio.me/tracks/f5dba255-da18-427a-a02a-ca11a339c1cd.png" width="40" height="40"/>
 ![Logo](https://hermes.dio.me/tracks/f5dba255-da18-427a-a02a-ca11a339c1cd.png)
 
 # Bootcamp
